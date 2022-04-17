@@ -1,0 +1,21 @@
+<h2>Conditions d'utilisation du site</h2>
+
+<p>Publec est un site de partage de fichier. Chaque utilisateur se doit de respecter la réglementation en vigueur concernant les droits
+d'auteur. En aucun cas les développeurs du site ne pourrait être mis en cause en cas de manquement au respect de cette loi. Chacun est
+responsable de ce qu'il met en ligne.</p>
+
+<p>Le contenu des fichiers mis en lignes doit respecter la loi dans son ensemble et en particulier les droits de l'homme. Tout utilisateur
+ ne respectant pas cela peut faire l'objet de poursuite judiciaires à son encontre. Tout contenu à caractère raciste, pédophile, 
+ prônant la violence est intégralement prohibé. Cette liste n'étant pas exhaustive.
+ </p>
+
+<p>
+Les fichiers mis en ligne sur publec appartiennent aux utilisateurs. Aucunes copies ne sera faite. Toute supression de fichiers via l'espace
+membre permet une supression complète et définitive du fichier sur le serveur.
+</p>
+
+<p>
+Les informations recueillis lors de l'inscription sont le propre de chaque utilisateur. Elles ne seront jamais communiqués à un tiers et
+ne seront utilisés que pour le fonctionnement du site. Chacun peut, à tout moment supprimer ces données de la base de donnée du site.
+</p>
+

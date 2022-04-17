@@ -1,0 +1,11 @@
+<h3>Contact</h3>
+
+<p>
+Vous pouvez me contacter :
+	<ul class="">
+		<li> par mail à l'adresse webmaster@publec.fr.</li>
+		<li> Sur Facebook via la page : <a href="">coming soon.</a></li>
+		<li>Sur Twitter avec le hashtag : <a href="">coming soon.</a></li>
+		<li>Sur Linkedin : <a href="">coming soon.</a></li>
+	</ul>
+</p>

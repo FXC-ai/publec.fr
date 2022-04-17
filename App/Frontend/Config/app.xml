@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definition>
+	<define var="nombre_news" value="5"/>
+	<define var="nombre_caracteres" value="200" ></define>
+	<define var="MsgMailConfirmation" value="Bienvenue sur Publec.net."></define>
+	<define var="SujetMailConfirmation" value="PUBLEC - Confirmation Inscription"></define>
+	<define var="nbrUploadMax" value="20"></define>
+	<define var="MAX_FILE_SIZE" value="2000000000"></define>
+	
+</definition>

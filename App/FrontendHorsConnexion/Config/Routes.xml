@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE xml>
+<routes>
+  <route url="/accueil/index.html" module="PageAccueil" action="index" ></route>
+  <route url="/accueil/confirmerInscription-([a-z0-9]+)\.html" module="PageAccueil" action="confirmerInscription" vars="cleActivation"></route>
+  <route url="/accueil/" module="PageAccueil" action="index" ></route>
+  <route url="/accueil/inscription.html" module="PageAccueil" action="inscription" ></route>
+  
+  <route url="/publec/" module="PageAccueil" action="index"></route>
+  <route url="/accueil/infos-([a-z]+).html" module="PageAccueil" action="lienfooter" vars="subject"></route>
+  
+</routes>

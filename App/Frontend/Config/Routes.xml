@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE xml>
+<routes>
+  <!-- <route url="/news.html" module="News" action="index" ></route> -->
+  <!-- <route url="/" module="PageAccueil" action="index"></route> -->
+  <!-- <route url="/news-([0-9]+)\.html" module="News" action="show" vars="id"></route> -->
+  <!-- <route url="/commenter-([0-9]+)\.html" module="News" action="insertComment" vars="news"></route> -->
+  <!-- <route url="/inscription.html" module="Users" action="registration"></route> -->
+  <!-- <route url="/confirmerInscription-([a-z0-9]+)\.html" module="PageAccueil" action="index" vars="cleActivation"></route> -->
+  <!-- <route url="/accueil.html" module="PageAccueil" action="index"></route> -->
+  
+  <route url="/" module="Upload" action="FilesIndex"></route>
+  <route url="/mesFichiers.html" module="Upload" action="FilesIndex"></route>
+  <route url="/upload.html" module="Upload" action="UploadIndex"></route>
+  <route url="/mesFichiers.html" module="Upload" action="FilesIndex"></route>
+  <route url="/mesFichiers/([A-Za-z0-9_]+)\.html" module="Upload" action="FilesIndex" vars="directory"></route>
+  <route url="/mesFichiers-deleteDirectory-([A-Za-z0-9]+)\.html" module="Upload" action="DeleteDirectory" vars="directoryToDelete"></route>
+  <route url="/mesFichiers-deleteFile-(.+)-([0-9]+)\.html" module="Upload" action="DeleteFile" vars="locationDir,FileToDelete"></route>
+  <route url="/creerDossier.html" module="Upload" action="CreateDirectory"></route>
+  <route url="/disconnection.html" module="Disconnect" action="Disconnection"></route>
+  
+  <!--<route url="/upload-([1-2]+).html" module="Upload" action="UploadIndex" vars="erreurForm"></route> -->
+  <!--<route url="/upload/uploadFichiers.html" module ="Upload" action="Upload"></route>-->
+</routes>

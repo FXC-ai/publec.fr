@@ -1,0 +1,10 @@
+﻿<h3>A propos...</h3>
+
+<p>
+Publec est une application Web destinée au stockage et au partage de fichiers.
+Cette application a été développée à l'aide des téchnologies PHP, MySQL, HTML, CSS.
+Le code a été écrit en PHP objet en suivant le cour du site Open Classroom (
+<a href="https://openclassrooms.com/courses/programmez-en-oriente-objet-en-php">le cour est ici</a>).
+Le design du site utilise Bootstrap (<a href="http://getbootstrap.com/">cliquez ici pour en savoir plus</a>).
+Le site est désormais hébergé par 1&1 (<a href="https://www.1and1.fr">www.1and1.fr</a>) sous le nom de domaine déposé "publec.fr".
+</p>
